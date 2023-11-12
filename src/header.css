@@ -1,0 +1,10 @@
+
+.progress-custom .progress-bar{
+    background: #9e5ef8;
+}
+.progress-custom-answered .progress-bar{
+    background: #c0c002;
+}
+.progress-custom-result .progress-bar{
+    background: #f85e5e;
+}
