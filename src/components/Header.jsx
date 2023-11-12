@@ -19,7 +19,7 @@ function Header({timeRemaining,isClick,isCorrect}) {
   }
   return (
     <>
-      { 
+      { value > 0 &&
         <ProgressCustom 
         className={cssClass}
         style={{background:"#6a558a"}} 
